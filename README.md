@@ -42,4 +42,4 @@ The screen is cleared using `print("\033c", end="")`. This trick may not work in
 
 ## Author
 
-Made by **Daniyal Behzadpour**
+Made by **Lowsignal-Code**
