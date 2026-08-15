@@ -19,7 +19,7 @@ No external libraries needed — just the standard `random` and `time` modules.
 ## How to Run
 
 ```bash
-git clone https://github.com/Lowsignal-Code/Memory_game.git
+git clone https://github.com/HoneySpider/Memory_game.git
 cd Memory_game
 python Memory_game.py
 ```
